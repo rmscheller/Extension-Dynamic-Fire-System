@@ -270,3 +270,4 @@ testings/Core8-DynamicFire4.0/DFFS-output/TimeOfLastFire-50.tif
 testings/Core8-DynamicFire4.0/fire/dynamic-fire-event-log.csv
 testings/Core8-DynamicFire4.0/Metadata/Climate-Library/Future-Annual-Log_Metadata.xml
 testings/Core8-DynamicFire4.0/Metadata/Climate-Library/Spinup-Annual-Log_Metadata.xml
+src/lib/Landis.Library.UniversalCohorts-v2.dll
